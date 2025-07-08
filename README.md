@@ -49,12 +49,12 @@ Below are some screenshots demonstrating different features of the Quantum Books
 ---
 
 ### ❌ 3. Buying a DemoBook (Not Allowed)
-![DemoBook Error](screenshots/Screenshot%20(1242).png)
+![DemoBook Error](screenshots/Screenshot%20(1245).png)
 
 ---
 
 ### ❌ 4. Trying to Buy Too Many PaperBooks (Stock Error)
-![Stock Error](screenshots/Screenshot%20(1245).png)
+![Stock Error](screenshots/Screenshot%20(1242).png)
 
 ---
 
