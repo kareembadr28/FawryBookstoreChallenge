@@ -1,10 +1,10 @@
-# Quantum Bookstore
+# Bookstore
 
 This project is part of the **Fawry Full Stack Internship Challenge (N² Dev Slope #10)**.
 
 ## 📚 Project Description
 
-**Quantum Bookstore** is a simple simulation of an online bookstore system built with Java and object-oriented principles.  
+**Bookstore** is a simple simulation of an online bookstore system built with Java and object-oriented principles.  
 It supports multiple types of books and operations such as:
 
 - 📦 Adding new books to inventory (PaperBook, EBook, DemoBook)
