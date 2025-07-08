@@ -26,20 +26,7 @@ public class Main {
 	            System.out.println("Quantum book store: ERROR - " + e.getMessage());
 	        }
 
-	        try {
-// buy stock more than available
-	        	
-	        	inventory.BuyBook("111", 100, "user4@example.com", "456 Street, City");
-	        } catch (IllegalArgumentException e) {
-	            System.out.println("Quantum book store: ERROR - " + e.getMessage());
-	        }
 
-//remove outdated books
-	        
-	        List<Book> removedBooks = inventory.RempveOutDatedBooks(2025);
-	        for (Book b : removedBooks) {
-	            System.out.println("Quantum book store: Removed - " + b.getTitle());
-	        }
 
 	}
 
