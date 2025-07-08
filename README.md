@@ -43,7 +43,7 @@ Below are some screenshots demonstrating different features of the Quantum Books
 
 ---
 
-### 🛒 2. Buying a PaperBook
+### 🛒 2. Buying Books
 ![Buying Book](screenshots/Screenshot%20(1244).png)
 
 ---
