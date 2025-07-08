@@ -32,6 +32,35 @@ It supports multiple types of books and operations such as:
 - Integration with dummy `ShippingService` and `MailService`.
 
 ---
+## 📸 Screenshots
+
+Below are some screenshots demonstrating different features of the Quantum Bookstore app.
+
+---
+
+### 🟢 1. Adding Books to Inventory
+![Adding Books](screenshots/Screenshot%20(1239).png)
+
+---
+
+### 🛒 2. Buying a PaperBook
+![Buying Book](screenshots/Screenshot%20(1244).png)
+
+---
+
+### ❌ 3. Buying a DemoBook (Not Allowed)
+![DemoBook Error](screenshots/Screenshot%20(1242).png)
+
+---
+
+### ❌ 4. Trying to Buy Too Many PaperBooks (Stock Error)
+![Stock Error](screenshots/Screenshot%20(1245).png)
+
+---
+
+### 🔁 5. Removing Outdated Books
+![Removing Outdated Books](screenshots/Screenshot%20(1243).png)
+
 
 ## ▶️ How to Run
 
